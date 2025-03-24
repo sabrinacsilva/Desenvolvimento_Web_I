@@ -30,19 +30,19 @@ Este projeto foi desenvolvido para praticar os conceitos essenciais do React, in
 
 ## Como Rodar ?
 
-Clone the repository:
-
+1. Clone o repositório:
 git clone https://github.com/seu-usuario/React-Task-Manager.git
-Open the project:
 
+2. Acesse a pasta:
 cd React-Task-Manager
-Install dependencies:
 
+3. Instale as dependências:
 npm install
-Run the app locally:
 
+4. Inicie o projeto:
 npm start
-The app will run on http://localhost:3000.
+
+6. Abra no navegador: http://localhost:3000
 
 ## Fotos
 
