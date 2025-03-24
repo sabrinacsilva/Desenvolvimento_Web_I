@@ -17,7 +17,7 @@ Este projeto foi criado para exercitar os princípios básicos do React, incluin
 - Arquitetura de Componentes: Componentes funcionais
 - Armazenamento Local: localStorage para salvar preferências do usuário
 
-## Conceitos 
+## Conceitos 🎯
 
 - Componentes funcionais
 - Estados com `useState`
