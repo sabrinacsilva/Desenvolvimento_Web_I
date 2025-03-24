@@ -1,4 +1,4 @@
-# 📘 Projeto - Desenvolvimento Web I 
+## Projeto - Desenvolvimento Web I ✅
 
 Este projeto foi criado para exercitar os princípios básicos do React, incluindo a utilização de componentes, gerenciamento de estado com useState, efeitos colaterais com useEffect, exibição dinâmica de listas com map, manipulação de formulários e armazenamento de dados no localStorage.
 
@@ -43,14 +43,6 @@ npm install
 npm start
 
 6. Abra no navegador: http://localhost:3000
-
-## Exercícios Implementados: ✅
-
- - Cadastro de nome, email e idade com exibição dinâmica
- - Cadastro de tarefas e exibição com map
- - Uso de useEffect para alertas e persistência com localStorage
- - Armazenamento e leitura do nome do usuário
- - Personalização da cor de fundo com radio buttons
  
 ## Imagens 🖼️
 
