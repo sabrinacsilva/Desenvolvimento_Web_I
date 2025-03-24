@@ -1,14 +1,14 @@
-# 📘 Projeto  
+# 📘 Projeto Desenvolvimento Web I 
 
 Este projeto foi desenvolvido para praticar os conceitos essenciais do React, incluindo componentes, estados (useState), efeitos (useEffect), manipulação de listas (map), formulários e armazenamento de dados no localStorage.
 
-## Funcionalidades
+## Funcionalidades📝 
 
 - Cadastro e exibição de tarefas.
 - Armazenamento e persistência no localStorage.
 - Personalização do fundo da página.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 🛠
 
 - Linguagem: JavaScript
 - Framework: React.js
@@ -28,7 +28,7 @@ Este projeto foi desenvolvido para praticar os conceitos essenciais do React, in
 - Uso de `key` em listas dinâmicas
 - Personalização de interface
 
-## Como Rodar ?
+## Como Executar: 📥
 
 1. Clone o repositório:
 git clone https://github.com/seu-usuario/React-Task-Manager.git
@@ -44,7 +44,7 @@ npm start
 
 6. Abra no navegador: http://localhost:3000
 
-## Fotos
+## Imagens 🖼️
 
 ![Imagem Nº1](https://github.com/user-attachments/assets/1dcd63c5-bf30-4981-b85a-9f1761580005)
 ![Imagem Nº2](https://github.com/user-attachments/assets/d0d93788-1cbb-4725-8be9-68dd17f1a0a1)
