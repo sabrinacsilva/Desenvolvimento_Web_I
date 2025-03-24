@@ -44,7 +44,8 @@ npm start
 
 6. Abra no navegador: http://localhost:3000
 
-✅ Exercícios Implementados
+## Exercícios Implementados: ✅
+
  - Cadastro de nome, email e idade com exibição dinâmica
  - Cadastro de tarefas e exibição com map
  - Uso de useEffect para alertas e persistência com localStorage
