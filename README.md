@@ -1,22 +1,21 @@
 # 📘 Projeto  
 
-Este projeto foi desenvolvido com foco em praticar os conceitos fundamentais de React, incluindo uso de componentes, manipulação de estados com `useState`, efeitos colaterais com `useEffect`, renderização de listas com `map`, uso de formulários e persistência de dados utilizando `localStorage`.
+Este projeto foi desenvolvido para praticar os conceitos essenciais do React, incluindo componentes, estados (useState), efeitos (useEffect), manipulação de listas (map), formulários e armazenamento de dados no localStorage.
 
 ## Funcionalidades
 
-- Formulário para cadastro de tarefas.
-- Renderização dinâmica de tarefas em lista.
-- Armazenamento das tarefas no `localStorage`.
-- Persistência das tarefas mesmo após recarregar ou fechar a página.
-- Cadastro e exibição do nome do usuário.
-- Personalização do fundo da página com base na cor escolhida pelo usuário.
+- Cadastro e exibição de tarefas.
+- Armazenamento e persistência no localStorage.
+- Personalização do fundo da página.
 
 ## Tecnologias Utilizadas
 
-- React
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+- Linguagem: JavaScript
+- Framework: React.js
+- Gerenciamento de Estado: useState, useEffect
+- Interface e Estilo: JSX, CSS
+- Arquitetura de Componentes: Componentes funcionais
+- Armazenamento Local: localStorage para salvar preferências do usuário
 
 ## Conceitos 
 
@@ -31,31 +30,19 @@ Este projeto foi desenvolvido com foco em praticar os conceitos fundamentais de 
 
 ## Como Rodar ?
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
-   ```
+Clone the repository:
 
-2. Acesse a pasta do projeto:
-   ```bash
-   cd seu-repo
-   ```
+git clone https://github.com/seu-usuario/React-Task-Manager.git
+Open the project:
 
-3. Instale as dependências:
-   ```bash
-   npm install
-   ```
+cd React-Task-Manager
+Install dependencies:
 
-4. Inicie o servidor de desenvolvimento:
-   ```bash
-   npm start
-   ```
+npm install
+Run the app locally:
 
-5. Acesse no navegador:
-   ```
-   http://localhost:3000
-   ```
-
+npm start
+The app will run on http://localhost:3000.
 
 ## Fotos
 
