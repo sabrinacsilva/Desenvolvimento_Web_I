@@ -1,6 +1,6 @@
 # 📘 Projeto Desenvolvimento Web I 
 
-Este projeto foi desenvolvido para praticar os conceitos essenciais do React, incluindo componentes, estados (useState), efeitos (useEffect), manipulação de listas (map), formulários e armazenamento de dados no localStorage.
+Este projeto foi criado para exercitar os princípios básicos do React, incluindo a utilização de componentes, gerenciamento de estado com useState, efeitos colaterais com useEffect, exibição dinâmica de listas com map, manipulação de formulários e armazenamento de dados no localStorage.
 
 ## Funcionalidades📝 
 
