@@ -44,6 +44,13 @@ npm start
 
 6. Abra no navegador: http://localhost:3000
 
+✅ Exercícios Implementados
+ - Cadastro de nome, email e idade com exibição dinâmica
+ - Cadastro de tarefas e exibição com map
+ - Uso de useEffect para alertas e persistência com localStorage
+ - Armazenamento e leitura do nome do usuário
+ - Personalização da cor de fundo com radio buttons
+ 
 ## Imagens 🖼️
 
 ![Imagem Nº1](https://github.com/user-attachments/assets/1dcd63c5-bf30-4981-b85a-9f1761580005)
